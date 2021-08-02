@@ -1,6 +1,10 @@
-## Preferences
+# Preferences
 
-#Usage
+<img src="EditTextSwitchPreference.png" width="300"/>
+
+[![](https://jitpack.io/v/woheller69/preferences.svg)](https://jitpack.io/#woheller69/preferences)
+
+## Usage
 
 Add the JitPack repository to your root build.gradle at the end of repositories:
 

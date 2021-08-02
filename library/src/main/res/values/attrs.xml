@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SwitchPreferences">
+        <attr name="SwitchKey" format="string"/>
+        <attr name="SwitchKeyDefaultValue" format="boolean" />
+    </declare-styleable>
+</resources>

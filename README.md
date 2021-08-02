@@ -50,5 +50,7 @@ Now you can use this view in your preferences layout, just like any other normal
             app:SwitchKeyDefaultValue="true"
             android:defaultValue="yourDefaultValue"
             android:icon="yourIcon"
-            android:title="yourTitle"/>
+            android:title="yourTitle"
+            android:entries="@array/yourEntries"
+            android:entryValues="@array/yourEntryValues"/>
 ````
